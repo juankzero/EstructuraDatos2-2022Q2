@@ -1,0 +1,14 @@
+int main()
+{
+	lecturaArchivo();
+
+
+
+
+}
+
+void lecturaArchivo()
+{
+	DataFile df;
+
+}
